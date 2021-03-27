@@ -4,3 +4,5 @@ Homeworks:
 1. [03_ThreeWayAndTkinter](http://uneex.org/LecturesCMC/PythonDevelopment2021/03_ThreeWayAndTkinter#A.2BBBQ-.2F.2BBBc-)
   
     Implemented the mandatory part and made all numeric buttons of the same size
+
+2. [04_PublicRepositoryEvents](http://uneex.org/LecturesCMC/PythonDevelopment2021/04_PublicRepositoryEvents#A.2BBBQ-.2F.2BBBc-)
